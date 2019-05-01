@@ -8,7 +8,7 @@ Captcha solver using **YOLO v3**. Has an accuracy of **98.166%** on the test dat
 
 ## Example of data annotation
 
-![00012.jpg](00012.txt)
+![00012.jpg](00012.jpg)
 
 | Object-d      | x-coordinate  | y-coordinate  | width     | height   |
 | ------------- |:-------------:| ------------:	| ---------:|---------:|
