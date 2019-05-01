@@ -6,7 +6,7 @@ Captcha solver using **YOLO v3**. Has an accuracy of **98.166%** on the test dat
 
 * Save the trained final weights, yolov3 configuration file and captcha names file in a folder named data. 
 
-* The annotation of dataset is done manually using BBox Label Tool. We finf the cntre's x and y coordinates and normalized width and height.
+* The annotation of dataset is done manually using BBox Label Tool. We find the object's centre x and y coordinates and normalized width and height.
 
 ## Example of data annotation
 
